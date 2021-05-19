@@ -1,0 +1,18 @@
+@mixin xs {
+    @media only screen and (min-width: 0px) and (max-width: 499px){
+    @content;
+    }
+}   
+        
+@mixin sm {
+    @media only screen and (min-width: 500px) and (max-width: 767px){
+    @content;
+    }
+}
+
+@mixin xs-to-sm {
+    @media only screen and (min-width: 0px) and (max-width: 767px){
+    @content;
+    }
+}
+

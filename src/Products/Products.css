@@ -1,0 +1,8 @@
+.products_container {
+  max-width: 1255px;
+  margin: 0 auto;
+}
+.flex_wrap {
+  display: flex;
+  flex-wrap: wrap;
+}

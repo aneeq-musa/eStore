@@ -1,0 +1,21 @@
+.cart_toggle {
+  background: none;
+  border: none;
+  position: relative;
+}
+
+.cart_toggle:focus {
+  outline: 1px dotted grey;
+  outline-offset: 5px;
+}
+
+.cart_items {
+  position: absolute;
+  background: #fff;
+  padding: 3px 9px;
+  border-radius: 20px;
+  color: #2339a9;
+  font-weight: bold;
+  top: -17px;
+  right: -1px;
+}
