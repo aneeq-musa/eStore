@@ -13,8 +13,8 @@ eStore created with React
 2. Quick view  
 3. Sorting (Low to high, high to low)
 4. Add to cart
-    a. Delete product from the cart
-    b. Update quantity (increase/Decrease)
-    c. Order total (+tax)
+    * Delete product from the cart
+    * Update quantity (increase/Decrease)
+    * Order total (+tax)
 5. Product search 
 
