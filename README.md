@@ -18,3 +18,6 @@ eStore created with React
     * Order total (+tax)
 5. Product search 
 
+**Demo**
+
+![demo](https://user-images.githubusercontent.com/21178093/118898578-e20fce00-b8da-11eb-9d0c-6e7c5db38802.gif)
